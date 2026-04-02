@@ -47,7 +47,6 @@ Behind the scenes, app.py automatically computes 6 additional engineered feature
 1. Clone the repo
 ```bash
 git clone https://github.com/GauravRawat9/Predict-the-Introverts-from-the-Extroverts-using-Machine-Learning.git
-cd introvert-extrovert-classifier
 ```
 2. Create a virtual environment (recommended)
 ```bash
