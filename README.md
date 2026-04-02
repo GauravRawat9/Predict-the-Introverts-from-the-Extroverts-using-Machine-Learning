@@ -46,7 +46,7 @@ Behind the scenes, app.py automatically computes 6 additional engineered feature
 🚀 Setup & Run Locally
 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/introvert-extrovert-classifier.git
+git clone https://github.com/GauravRawat9/Predict-the-Introverts-from-the-Extroverts-using-Machine-Learning.git
 cd introvert-extrovert-classifier
 ```
 2. Create a virtual environment (recommended)
